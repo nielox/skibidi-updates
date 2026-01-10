@@ -1,5 +1,5 @@
 {
-  "version": "0.6 Beta",
+  "version": "0.7 Beta",
   "download_url": "https://github.com/nielox/skibidi-updates/releases/download/android/skibidigames-0.1-arm64-v8a_armeabi-v7a-debug.apk",
-  "changelog": "- New Search Bar added!\n- Auto-updates are now silent\n- Debug messages hidden"
+  "changelog": "fixed some bugs :)"
 }
